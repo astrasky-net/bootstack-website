@@ -2,7 +2,7 @@
   "name": "bootstack",
   "version": "0.0.0",
   "description": "Doks theme",
-  "author": "Hyas",
+  "author": "AstraSky",
   "license": "MIT",
   "scripts": {
     "create": "hugo new",
