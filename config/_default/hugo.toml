@@ -17,7 +17,7 @@ defaultContentLanguage = "en"
 disableLanguages = ["de", "nl", "ru"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright (c) 2020-2024 Hyas"
+copyRight = "Copyright (c) 2020-2024 AstrSky"
 
 [build.buildStats]
   enable = true
